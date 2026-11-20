@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "Caua Eduardo Rezende Veloso",
+        "email": "veloso@gmail.com",
+        "login": "veloso",
+        "senha": "101010"
+    },
+    {
+        "id": 2,
+        "nome": "Jessica Hansen",
+        "email": "jessica@gmail.com",
+        "login": "jessica",
+        "senha": "hansen"
+    }
+]
